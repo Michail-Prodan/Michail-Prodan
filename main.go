@@ -5,13 +5,7 @@ import (
 )
 
 func main() {
-	array := make([]string, 2)
-	array = append(array, "1")
-	array =
-
-
-
-
+	
 	transactions := []float64{}
 	for {
 		transaction := scanTransaction()
